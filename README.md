@@ -1,4 +1,4 @@
-## Todo List Rails app
+# Todo List Rails app
 
 ## What this app does
 
@@ -6,7 +6,7 @@ This is a very basic rails app. You can create list and add items to it. Also, y
 
 The goal of this app is to learn how a rails app works. Don't expect to find a very pretty app, that's not my goal, feel free to add colors if you want =).
 
-I created this app following a Threehouse tutorial. 
+I created this app following a Treehouse tutorial. 
 
 There's still a few things I don't understand (black magic!) but I have to say I kind of like ruby and rails.
 
